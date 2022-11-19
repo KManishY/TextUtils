@@ -9,7 +9,7 @@ export default function About () {
             backgroundColor: 'white',
             border : '1px solid black',
             borderRadius : '6px',
-            paddingBottom: '10px'
+            paddingBottom: '10px' 
         
     });
 
